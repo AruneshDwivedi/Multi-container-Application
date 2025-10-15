@@ -11,7 +11,7 @@ It includes everything from **building a Node.js API**, connecting it to **Mongo
 
 ---
 
-## Image
+## 
 
 ![App Running Locally](./multi-container%20app.png)
 
