@@ -1,0 +1,45 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+*.seed
+*.bak
+docker-data/
+volumes/
+# If you use local bind mounts
+mongo-data/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+# Ansible
+*.retry
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+dist/
+coverage/
+
+# Nginx temp / cache
+nginx/cache/
+nginx/temp/
